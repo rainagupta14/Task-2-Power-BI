@@ -5,8 +5,8 @@ The goal of this task was to create an interactive Power BI dashboard using a sa
 
 🛠 Tools Used --
 
-Power BI
-Excel (for initial data exploration)
+-- Power BI
+-- Excel (for initial data exploration)
 
 📈 Dashboard Highlights
 
@@ -21,13 +21,9 @@ Key KPIs: Total Sales, Profit, Quantity, and Profit Margin
 💡 Key Insights
 
 --The West region shows the highest profit, while the Central region struggles.
-
 --Technology is the most profitable category.
-
 --A few products (e.g., Tables) show high sales but negative profit – indicating a pricing or cost issue.
-
 --Standard Class shipping is most commonly used but not always the most profitable.
-
 --California leads in both sales and profit, whereas Texas has low profitability despite good sales.
 
 📚 Learnings--
@@ -37,6 +33,7 @@ Key KPIs: Total Sales, Profit, Quantity, and Profit Margin
 -How minor formatting changes (like conditional colors) improve dashboard clarity.
 
 🔍 Dataset -- Superstore.csv (Sample sales data)
+
 
 
              
