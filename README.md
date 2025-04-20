@@ -28,9 +28,9 @@ Key KPIs: Total Sales, Profit, Quantity, and Profit Margin
 
 📚 Learnings--
 
--Importance of choosing the right visual to avoid misleading interpretations.
--Using storytelling to guide the viewer through business insights.
--How minor formatting changes (like conditional colors) improve dashboard clarity.
+Incorporated data analysis techniques specialising in TIME SERIES ANALYSIS, to deliver valuable Insights,Accurate Sales Forecasting,
+and Interactive Dashboard Creation, driving business success.
+
 
 🔍 Dataset -- Superstore.csv (Sample sales data)
 
